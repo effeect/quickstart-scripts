@@ -7,5 +7,6 @@ This script will install the following :
 
 And it will change the default DNS address to 1.1.1.1, although that can be easily changed!
 
-In order to run, download this script and run the following (you may need to sudo chmod +x the file): 
+In order to run, download this script and run the following (you may need to sudo chmod +x the file):
+ 
 `sudo ./setup.sh`
